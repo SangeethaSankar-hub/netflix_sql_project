@@ -1,6 +1,6 @@
 # Netflix Movies And TV Shows Data Analaysis Using SQL 
 
-![Netflix-logo](https://github.com/SangeethaSankar-hub/netflix_sql_project/raw/main/Netflix_Logo.png)
+![Netflix_logo][https://github.com/SangeethaSankar-hub/netflix_sql_project/raw/main/Netflix_Logo.png]
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
@@ -207,4 +207,5 @@ GROUP BY category;
     Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
     Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
     Content Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
-This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+    
+SQL analysis reveals insights into Netflix’s content diversity, target audience, regional preferences, release patterns, and thematic focus, providing a comprehensive view of its content strategy, audience engagement  and decision-making.
